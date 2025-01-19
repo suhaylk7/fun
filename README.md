@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-a {
-    color:green;
-    }
+
   </head>
   <body>
     <a href="https://hackertyper.net/">hacking</a>
