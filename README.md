@@ -1,8 +1,8 @@
-
+# fun
 <!DOCTYPE html>
 <html>
   <head>
-    <title>cool stuff</title>
+   cool stuff
   </head>
   <body>
     <a href="https://hackertyper.net/">hacking</a>
