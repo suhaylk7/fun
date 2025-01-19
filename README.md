@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,4 +9,4 @@
     <a href="https://smashthewalls.com/">Break the fourth wall</a>
   </body>
 </html>
-```
+
